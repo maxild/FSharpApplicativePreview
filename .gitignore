@@ -1,0 +1,12 @@
+.vs/
+.vscode/
+.ionide/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Mac desktop service store files
+.DS_Store
