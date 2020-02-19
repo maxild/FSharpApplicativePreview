@@ -21,4 +21,4 @@ At last from a "Visual Studio Command Prompt" run
 devenv.exe /rootsuffix RoslynDev
 ```
 
-This will start an experimental instance of Visual Studio outside a specific solution. The experimental instances are located at C:\Users\<username>\AppData\Local\Microsoft\VisualStudio.
+This will start an experimental instance of Visual Studio outside a specific solution. The experimental instances are located at `C:\Users\<username>\AppData\Local\Microsoft\VisualStudio`.
